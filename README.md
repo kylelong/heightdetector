@@ -1,6 +1,6 @@
 # heightdetector
 		                        Height Detector: A Component of Energy Efficient Homes 
-				                 Research Location: University of Virginia
+				                     Research Location: University of Virginia
                                          Resources:  Python 2.7, OpenCV, Numpy, Matplotlib
                                        Erin Griffiths, Kyle Long, Kamin WHitehouse
                                        
