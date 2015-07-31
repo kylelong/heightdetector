@@ -1,7 +1,7 @@
 # heightdetector
-		                   Height Detector: A Component of Energy Efficient Homes 
-				           Research Location: University of Virginia
-                                    Resources:  Python 2.7, OpenCV, Numpy, Matplotlib
+		                        Height Detector: A Component of Energy Efficient Homes 
+				                 Research Location: University of Virginia
+                                         Resources:  Python 2.7, OpenCV, Numpy, Matplotlib
                                        Erin Griffiths, Kyle Long, Kamin WHitehouse
                                        
 Project Overview:  This project entails of determining the height of a person in .h264 video files recorded with raspberry pi’s. The purpose of determining the height of a person is linked to understanding who in a home used a certain amount of energy. In order to know how much energy one has used you need to identify who used what energy source. Determining a person height will allow for you to associate a person’s energy usage to their height. For example, the mom in a home is 5’6 and with deployed sensors data shows that a 5’6 person used 27% of the family’s water that month, you may conclude that mom was responsible for that energy usage. 
